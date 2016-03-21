@@ -1,0 +1,3 @@
+X: Merged dataset of test and train group
+X.subset: X subsetted on measurements on the mean and standard deviation for each measurement
+Data: Tidy data set with averages of X.subset for each subject_id and each activity. The row names can point to the subject_id or the activity.
